@@ -1,0 +1,1812 @@
+/mushaf/tajweed/width_1280/page001.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page002.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page003.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page004.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page005.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page006.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page007.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page008.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page009.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page010.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page011.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page012.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page013.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page014.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page015.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page016.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page017.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page018.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page019.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page020.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page021.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page022.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page023.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page024.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page025.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page026.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page027.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page028.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page029.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page030.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page031.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page032.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page033.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page034.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page035.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page036.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page037.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page038.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page039.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page040.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page041.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page042.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page043.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page044.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page045.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page046.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page047.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page048.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page049.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page050.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page051.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page052.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page053.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page054.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page055.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page056.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page057.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page058.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page059.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page060.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page061.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page062.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page063.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page064.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page065.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page066.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page067.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page068.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page069.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page070.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page071.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page072.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page073.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page074.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page075.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page076.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page077.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page078.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page079.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page080.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page081.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page082.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page083.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page084.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page085.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page086.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page087.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page088.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page089.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page090.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page091.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page092.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page093.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page094.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page095.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page096.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page097.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page098.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page099.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page100.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page101.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page102.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page103.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page104.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page105.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page106.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page107.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page108.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page109.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page110.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page111.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page112.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page113.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page114.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page115.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page116.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page117.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page118.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page119.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page120.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page121.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page122.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page123.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page124.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page125.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page126.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page127.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page128.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page129.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page130.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page131.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page132.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page133.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page134.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page135.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page136.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page137.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page138.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page139.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page140.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page141.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page142.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page143.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page144.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page145.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page146.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page147.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page148.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page149.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page150.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page151.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page152.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page153.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page154.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page155.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page156.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page157.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page158.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page159.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page160.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page161.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page162.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page163.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page164.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page165.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page166.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page167.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page168.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page169.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page170.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page171.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page172.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page173.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page174.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page175.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page176.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page177.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page178.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page179.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page180.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page181.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page182.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page183.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page184.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page185.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page186.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page187.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page188.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page189.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page190.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page191.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page192.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page193.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page194.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page195.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page196.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page197.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page198.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page199.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page200.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page201.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page202.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page203.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page204.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page205.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page206.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page207.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page208.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page209.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page210.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page211.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page212.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page213.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page214.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page215.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page216.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page217.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page218.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page219.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page220.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page221.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page222.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page223.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page224.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page225.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page226.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page227.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page228.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page229.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page230.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page231.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page232.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page233.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page234.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page235.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page236.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page237.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page238.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page239.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page240.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page241.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page242.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page243.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page244.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page245.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page246.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page247.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page248.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page249.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page250.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page251.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page252.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page253.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page254.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page255.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page256.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page257.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page258.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page259.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page260.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page261.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page262.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page263.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page264.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page265.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page266.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page267.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page268.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page269.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page270.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page271.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page272.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page273.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page274.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page275.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page276.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page277.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page278.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page279.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page280.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page281.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page282.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page283.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page284.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page285.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page286.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page287.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page288.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page289.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page290.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page291.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page292.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page293.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page294.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page295.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page296.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page297.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page298.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page299.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page300.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page301.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page302.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page303.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page304.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page305.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page306.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page307.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page308.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page309.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page310.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page311.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page312.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page313.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page314.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page315.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page316.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page317.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page318.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page319.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page320.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page321.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page322.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page323.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page324.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page325.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page326.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page327.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page328.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page329.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page330.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page331.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page332.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page333.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page334.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page335.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page336.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page337.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page338.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page339.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page340.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page341.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page342.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page343.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page344.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page345.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page346.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page347.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page348.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page349.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page350.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page351.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page352.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page353.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page354.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page355.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page356.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page357.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page358.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page359.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page360.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page361.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page362.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page363.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page364.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page365.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page366.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page367.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page368.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page369.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page370.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page371.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page372.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page373.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page374.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page375.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page376.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page377.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page378.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page379.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page380.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page381.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page382.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page383.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page384.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page385.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page386.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page387.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page388.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page389.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page390.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page391.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page392.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page393.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page394.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page395.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page396.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page397.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page398.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page399.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page400.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page401.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page402.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page403.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page404.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page405.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page406.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page407.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page408.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page409.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page410.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page411.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page412.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page413.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page414.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page415.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page416.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page417.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page418.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page419.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page420.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page421.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page422.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page423.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page424.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page425.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page426.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page427.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page428.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page429.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page430.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page431.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page432.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page433.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page434.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page435.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page436.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page437.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page438.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page439.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page440.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page441.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page442.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page443.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page444.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page445.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page446.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page447.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page448.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page449.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page450.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page451.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page452.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page453.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page454.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page455.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page456.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page457.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page458.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page459.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page460.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page461.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page462.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page463.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page464.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page465.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page466.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page467.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page468.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page469.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page470.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page471.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page472.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page473.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page474.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page475.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page476.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page477.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page478.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page479.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page480.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page481.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page482.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page483.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page484.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page485.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page486.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page487.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page488.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page489.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page490.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page491.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page492.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page493.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page494.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page495.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page496.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page497.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page498.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page499.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page500.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page501.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page502.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page503.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page504.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page505.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page506.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page507.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page508.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page509.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page510.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page511.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page512.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page513.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page514.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page515.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page516.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page517.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page518.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page519.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page520.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page521.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page522.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page523.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page524.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page525.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page526.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page527.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page528.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page529.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page530.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page531.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page532.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page533.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page534.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page535.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page536.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page537.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page538.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page539.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page540.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page541.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page542.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page543.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page544.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page545.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page546.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page547.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page548.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page549.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page550.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page551.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page552.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page553.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page554.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page555.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page556.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page557.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page558.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page559.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page560.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page561.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page562.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page563.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page564.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page565.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page566.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page567.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page568.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page569.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page570.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page571.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page572.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page573.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page574.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page575.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page576.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page577.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page578.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page579.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page580.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page581.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page582.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page583.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page584.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page585.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page586.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page587.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page588.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page589.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page590.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page591.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page592.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page593.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page594.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page595.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page596.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page597.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page598.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page599.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page600.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page601.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page602.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page603.png
+  pixelWidth: 1340
+  pixelHeight: 1890
+/mushaf/tajweed/width_1280/page604.png
+  pixelWidth: 1340
+  pixelHeight: 1890

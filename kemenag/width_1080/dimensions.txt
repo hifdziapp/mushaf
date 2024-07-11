@@ -1,1812 +1,1812 @@
-/mushaf/kemenag/width_/page001.webp
+/mushaf/kemenag/width_1080/page001.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page002.webp
+/mushaf/kemenag/width_1080/page002.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page003.webp
+/mushaf/kemenag/width_1080/page003.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page004.webp
+/mushaf/kemenag/width_1080/page004.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page005.webp
+/mushaf/kemenag/width_1080/page005.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page006.webp
+/mushaf/kemenag/width_1080/page006.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page007.webp
+/mushaf/kemenag/width_1080/page007.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page008.webp
+/mushaf/kemenag/width_1080/page008.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page009.webp
+/mushaf/kemenag/width_1080/page009.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page010.webp
+/mushaf/kemenag/width_1080/page010.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page011.webp
+/mushaf/kemenag/width_1080/page011.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page012.webp
+/mushaf/kemenag/width_1080/page012.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page013.webp
+/mushaf/kemenag/width_1080/page013.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page014.webp
+/mushaf/kemenag/width_1080/page014.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page015.webp
+/mushaf/kemenag/width_1080/page015.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page016.webp
+/mushaf/kemenag/width_1080/page016.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page017.webp
+/mushaf/kemenag/width_1080/page017.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page018.webp
+/mushaf/kemenag/width_1080/page018.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page019.webp
+/mushaf/kemenag/width_1080/page019.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page020.webp
+/mushaf/kemenag/width_1080/page020.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page021.webp
+/mushaf/kemenag/width_1080/page021.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page022.webp
+/mushaf/kemenag/width_1080/page022.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page023.webp
+/mushaf/kemenag/width_1080/page023.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page024.webp
+/mushaf/kemenag/width_1080/page024.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page025.webp
+/mushaf/kemenag/width_1080/page025.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page026.webp
+/mushaf/kemenag/width_1080/page026.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page027.webp
+/mushaf/kemenag/width_1080/page027.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page028.webp
+/mushaf/kemenag/width_1080/page028.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page029.webp
+/mushaf/kemenag/width_1080/page029.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page030.webp
+/mushaf/kemenag/width_1080/page030.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page031.webp
+/mushaf/kemenag/width_1080/page031.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page032.webp
+/mushaf/kemenag/width_1080/page032.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page033.webp
+/mushaf/kemenag/width_1080/page033.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page034.webp
+/mushaf/kemenag/width_1080/page034.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page035.webp
+/mushaf/kemenag/width_1080/page035.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page036.webp
+/mushaf/kemenag/width_1080/page036.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page037.webp
+/mushaf/kemenag/width_1080/page037.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page038.webp
+/mushaf/kemenag/width_1080/page038.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page039.webp
+/mushaf/kemenag/width_1080/page039.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page040.webp
+/mushaf/kemenag/width_1080/page040.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page041.webp
+/mushaf/kemenag/width_1080/page041.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page042.webp
+/mushaf/kemenag/width_1080/page042.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page043.webp
+/mushaf/kemenag/width_1080/page043.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page044.webp
+/mushaf/kemenag/width_1080/page044.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page045.webp
+/mushaf/kemenag/width_1080/page045.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page046.webp
+/mushaf/kemenag/width_1080/page046.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page047.webp
+/mushaf/kemenag/width_1080/page047.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page048.webp
+/mushaf/kemenag/width_1080/page048.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page049.webp
+/mushaf/kemenag/width_1080/page049.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page050.webp
+/mushaf/kemenag/width_1080/page050.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page051.webp
+/mushaf/kemenag/width_1080/page051.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page052.webp
+/mushaf/kemenag/width_1080/page052.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page053.webp
+/mushaf/kemenag/width_1080/page053.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page054.webp
+/mushaf/kemenag/width_1080/page054.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page055.webp
+/mushaf/kemenag/width_1080/page055.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page056.webp
+/mushaf/kemenag/width_1080/page056.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page057.webp
+/mushaf/kemenag/width_1080/page057.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page058.webp
+/mushaf/kemenag/width_1080/page058.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page059.webp
+/mushaf/kemenag/width_1080/page059.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page060.webp
+/mushaf/kemenag/width_1080/page060.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page061.webp
+/mushaf/kemenag/width_1080/page061.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page062.webp
+/mushaf/kemenag/width_1080/page062.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page063.webp
+/mushaf/kemenag/width_1080/page063.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page064.webp
+/mushaf/kemenag/width_1080/page064.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page065.webp
+/mushaf/kemenag/width_1080/page065.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page066.webp
+/mushaf/kemenag/width_1080/page066.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page067.webp
+/mushaf/kemenag/width_1080/page067.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page068.webp
+/mushaf/kemenag/width_1080/page068.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page069.webp
+/mushaf/kemenag/width_1080/page069.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page070.webp
+/mushaf/kemenag/width_1080/page070.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page071.webp
+/mushaf/kemenag/width_1080/page071.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page072.webp
+/mushaf/kemenag/width_1080/page072.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page073.webp
+/mushaf/kemenag/width_1080/page073.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page074.webp
+/mushaf/kemenag/width_1080/page074.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page075.webp
+/mushaf/kemenag/width_1080/page075.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page076.webp
+/mushaf/kemenag/width_1080/page076.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page077.webp
+/mushaf/kemenag/width_1080/page077.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page078.webp
+/mushaf/kemenag/width_1080/page078.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page079.webp
+/mushaf/kemenag/width_1080/page079.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page080.webp
+/mushaf/kemenag/width_1080/page080.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page081.webp
+/mushaf/kemenag/width_1080/page081.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page082.webp
+/mushaf/kemenag/width_1080/page082.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page083.webp
+/mushaf/kemenag/width_1080/page083.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page084.webp
+/mushaf/kemenag/width_1080/page084.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page085.webp
+/mushaf/kemenag/width_1080/page085.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page086.webp
+/mushaf/kemenag/width_1080/page086.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page087.webp
+/mushaf/kemenag/width_1080/page087.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page088.webp
+/mushaf/kemenag/width_1080/page088.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page089.webp
+/mushaf/kemenag/width_1080/page089.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page090.webp
+/mushaf/kemenag/width_1080/page090.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page091.webp
+/mushaf/kemenag/width_1080/page091.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page092.webp
+/mushaf/kemenag/width_1080/page092.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page093.webp
+/mushaf/kemenag/width_1080/page093.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page094.webp
+/mushaf/kemenag/width_1080/page094.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page095.webp
+/mushaf/kemenag/width_1080/page095.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page096.webp
+/mushaf/kemenag/width_1080/page096.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page097.webp
+/mushaf/kemenag/width_1080/page097.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page098.webp
+/mushaf/kemenag/width_1080/page098.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page099.webp
+/mushaf/kemenag/width_1080/page099.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page100.webp
+/mushaf/kemenag/width_1080/page100.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page101.webp
+/mushaf/kemenag/width_1080/page101.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page102.webp
+/mushaf/kemenag/width_1080/page102.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page103.webp
+/mushaf/kemenag/width_1080/page103.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page104.webp
+/mushaf/kemenag/width_1080/page104.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page105.webp
+/mushaf/kemenag/width_1080/page105.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page106.webp
+/mushaf/kemenag/width_1080/page106.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page107.webp
+/mushaf/kemenag/width_1080/page107.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page108.webp
+/mushaf/kemenag/width_1080/page108.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page109.webp
+/mushaf/kemenag/width_1080/page109.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page110.webp
+/mushaf/kemenag/width_1080/page110.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page111.webp
+/mushaf/kemenag/width_1080/page111.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page112.webp
+/mushaf/kemenag/width_1080/page112.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page113.webp
+/mushaf/kemenag/width_1080/page113.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page114.webp
+/mushaf/kemenag/width_1080/page114.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page115.webp
+/mushaf/kemenag/width_1080/page115.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page116.webp
+/mushaf/kemenag/width_1080/page116.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page117.webp
+/mushaf/kemenag/width_1080/page117.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page118.webp
+/mushaf/kemenag/width_1080/page118.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page119.webp
+/mushaf/kemenag/width_1080/page119.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page120.webp
+/mushaf/kemenag/width_1080/page120.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page121.webp
+/mushaf/kemenag/width_1080/page121.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page122.webp
+/mushaf/kemenag/width_1080/page122.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page123.webp
+/mushaf/kemenag/width_1080/page123.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page124.webp
+/mushaf/kemenag/width_1080/page124.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page125.webp
+/mushaf/kemenag/width_1080/page125.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page126.webp
+/mushaf/kemenag/width_1080/page126.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page127.webp
+/mushaf/kemenag/width_1080/page127.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page128.webp
+/mushaf/kemenag/width_1080/page128.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page129.webp
+/mushaf/kemenag/width_1080/page129.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page130.webp
+/mushaf/kemenag/width_1080/page130.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page131.webp
+/mushaf/kemenag/width_1080/page131.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page132.webp
+/mushaf/kemenag/width_1080/page132.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page133.webp
+/mushaf/kemenag/width_1080/page133.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page134.webp
+/mushaf/kemenag/width_1080/page134.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page135.webp
+/mushaf/kemenag/width_1080/page135.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page136.webp
+/mushaf/kemenag/width_1080/page136.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page137.webp
+/mushaf/kemenag/width_1080/page137.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page138.webp
+/mushaf/kemenag/width_1080/page138.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page139.webp
+/mushaf/kemenag/width_1080/page139.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page140.webp
+/mushaf/kemenag/width_1080/page140.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page141.webp
+/mushaf/kemenag/width_1080/page141.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page142.webp
+/mushaf/kemenag/width_1080/page142.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page143.webp
+/mushaf/kemenag/width_1080/page143.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page144.webp
+/mushaf/kemenag/width_1080/page144.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page145.webp
+/mushaf/kemenag/width_1080/page145.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page146.webp
+/mushaf/kemenag/width_1080/page146.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page147.webp
+/mushaf/kemenag/width_1080/page147.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page148.webp
+/mushaf/kemenag/width_1080/page148.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page149.webp
+/mushaf/kemenag/width_1080/page149.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page150.webp
+/mushaf/kemenag/width_1080/page150.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page151.webp
+/mushaf/kemenag/width_1080/page151.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page152.webp
+/mushaf/kemenag/width_1080/page152.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page153.webp
+/mushaf/kemenag/width_1080/page153.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page154.webp
+/mushaf/kemenag/width_1080/page154.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page155.webp
+/mushaf/kemenag/width_1080/page155.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page156.webp
+/mushaf/kemenag/width_1080/page156.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page157.webp
+/mushaf/kemenag/width_1080/page157.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page158.webp
+/mushaf/kemenag/width_1080/page158.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page159.webp
+/mushaf/kemenag/width_1080/page159.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page160.webp
+/mushaf/kemenag/width_1080/page160.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page161.webp
+/mushaf/kemenag/width_1080/page161.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page162.webp
+/mushaf/kemenag/width_1080/page162.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page163.webp
+/mushaf/kemenag/width_1080/page163.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page164.webp
+/mushaf/kemenag/width_1080/page164.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page165.webp
+/mushaf/kemenag/width_1080/page165.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page166.webp
+/mushaf/kemenag/width_1080/page166.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page167.webp
+/mushaf/kemenag/width_1080/page167.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page168.webp
+/mushaf/kemenag/width_1080/page168.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page169.webp
+/mushaf/kemenag/width_1080/page169.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page170.webp
+/mushaf/kemenag/width_1080/page170.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page171.webp
+/mushaf/kemenag/width_1080/page171.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page172.webp
+/mushaf/kemenag/width_1080/page172.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page173.webp
+/mushaf/kemenag/width_1080/page173.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page174.webp
+/mushaf/kemenag/width_1080/page174.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page175.webp
+/mushaf/kemenag/width_1080/page175.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page176.webp
+/mushaf/kemenag/width_1080/page176.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page177.webp
+/mushaf/kemenag/width_1080/page177.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page178.webp
+/mushaf/kemenag/width_1080/page178.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page179.webp
+/mushaf/kemenag/width_1080/page179.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page180.webp
+/mushaf/kemenag/width_1080/page180.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page181.webp
+/mushaf/kemenag/width_1080/page181.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page182.webp
+/mushaf/kemenag/width_1080/page182.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page183.webp
+/mushaf/kemenag/width_1080/page183.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page184.webp
+/mushaf/kemenag/width_1080/page184.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page185.webp
+/mushaf/kemenag/width_1080/page185.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page186.webp
+/mushaf/kemenag/width_1080/page186.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page187.webp
+/mushaf/kemenag/width_1080/page187.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page188.webp
+/mushaf/kemenag/width_1080/page188.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page189.webp
+/mushaf/kemenag/width_1080/page189.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page190.webp
+/mushaf/kemenag/width_1080/page190.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page191.webp
+/mushaf/kemenag/width_1080/page191.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page192.webp
+/mushaf/kemenag/width_1080/page192.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page193.webp
+/mushaf/kemenag/width_1080/page193.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page194.webp
+/mushaf/kemenag/width_1080/page194.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page195.webp
+/mushaf/kemenag/width_1080/page195.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page196.webp
+/mushaf/kemenag/width_1080/page196.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page197.webp
+/mushaf/kemenag/width_1080/page197.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page198.webp
+/mushaf/kemenag/width_1080/page198.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page199.webp
+/mushaf/kemenag/width_1080/page199.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page200.webp
+/mushaf/kemenag/width_1080/page200.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page201.webp
+/mushaf/kemenag/width_1080/page201.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page202.webp
+/mushaf/kemenag/width_1080/page202.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page203.webp
+/mushaf/kemenag/width_1080/page203.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page204.webp
+/mushaf/kemenag/width_1080/page204.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page205.webp
+/mushaf/kemenag/width_1080/page205.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page206.webp
+/mushaf/kemenag/width_1080/page206.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page207.webp
+/mushaf/kemenag/width_1080/page207.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page208.webp
+/mushaf/kemenag/width_1080/page208.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page209.webp
+/mushaf/kemenag/width_1080/page209.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page210.webp
+/mushaf/kemenag/width_1080/page210.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page211.webp
+/mushaf/kemenag/width_1080/page211.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page212.webp
+/mushaf/kemenag/width_1080/page212.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page213.webp
+/mushaf/kemenag/width_1080/page213.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page214.webp
+/mushaf/kemenag/width_1080/page214.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page215.webp
+/mushaf/kemenag/width_1080/page215.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page216.webp
+/mushaf/kemenag/width_1080/page216.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page217.webp
+/mushaf/kemenag/width_1080/page217.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page218.webp
+/mushaf/kemenag/width_1080/page218.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page219.webp
+/mushaf/kemenag/width_1080/page219.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page220.webp
+/mushaf/kemenag/width_1080/page220.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page221.webp
+/mushaf/kemenag/width_1080/page221.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page222.webp
+/mushaf/kemenag/width_1080/page222.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page223.webp
+/mushaf/kemenag/width_1080/page223.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page224.webp
+/mushaf/kemenag/width_1080/page224.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page225.webp
+/mushaf/kemenag/width_1080/page225.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page226.webp
+/mushaf/kemenag/width_1080/page226.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page227.webp
+/mushaf/kemenag/width_1080/page227.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page228.webp
+/mushaf/kemenag/width_1080/page228.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page229.webp
+/mushaf/kemenag/width_1080/page229.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page230.webp
+/mushaf/kemenag/width_1080/page230.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page231.webp
+/mushaf/kemenag/width_1080/page231.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page232.webp
+/mushaf/kemenag/width_1080/page232.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page233.webp
+/mushaf/kemenag/width_1080/page233.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page234.webp
+/mushaf/kemenag/width_1080/page234.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page235.webp
+/mushaf/kemenag/width_1080/page235.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page236.webp
+/mushaf/kemenag/width_1080/page236.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page237.webp
+/mushaf/kemenag/width_1080/page237.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page238.webp
+/mushaf/kemenag/width_1080/page238.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page239.webp
+/mushaf/kemenag/width_1080/page239.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page240.webp
+/mushaf/kemenag/width_1080/page240.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page241.webp
+/mushaf/kemenag/width_1080/page241.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page242.webp
+/mushaf/kemenag/width_1080/page242.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page243.webp
+/mushaf/kemenag/width_1080/page243.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page244.webp
+/mushaf/kemenag/width_1080/page244.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page245.webp
+/mushaf/kemenag/width_1080/page245.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page246.webp
+/mushaf/kemenag/width_1080/page246.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page247.webp
+/mushaf/kemenag/width_1080/page247.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page248.webp
+/mushaf/kemenag/width_1080/page248.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page249.webp
+/mushaf/kemenag/width_1080/page249.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page250.webp
+/mushaf/kemenag/width_1080/page250.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page251.webp
+/mushaf/kemenag/width_1080/page251.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page252.webp
+/mushaf/kemenag/width_1080/page252.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page253.webp
+/mushaf/kemenag/width_1080/page253.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page254.webp
+/mushaf/kemenag/width_1080/page254.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page255.webp
+/mushaf/kemenag/width_1080/page255.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page256.webp
+/mushaf/kemenag/width_1080/page256.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page257.webp
+/mushaf/kemenag/width_1080/page257.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page258.webp
+/mushaf/kemenag/width_1080/page258.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page259.webp
+/mushaf/kemenag/width_1080/page259.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page260.webp
+/mushaf/kemenag/width_1080/page260.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page261.webp
+/mushaf/kemenag/width_1080/page261.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page262.webp
+/mushaf/kemenag/width_1080/page262.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page263.webp
+/mushaf/kemenag/width_1080/page263.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page264.webp
+/mushaf/kemenag/width_1080/page264.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page265.webp
+/mushaf/kemenag/width_1080/page265.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page266.webp
+/mushaf/kemenag/width_1080/page266.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page267.webp
+/mushaf/kemenag/width_1080/page267.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page268.webp
+/mushaf/kemenag/width_1080/page268.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page269.webp
+/mushaf/kemenag/width_1080/page269.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page270.webp
+/mushaf/kemenag/width_1080/page270.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page271.webp
+/mushaf/kemenag/width_1080/page271.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page272.webp
+/mushaf/kemenag/width_1080/page272.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page273.webp
+/mushaf/kemenag/width_1080/page273.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page274.webp
+/mushaf/kemenag/width_1080/page274.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page275.webp
+/mushaf/kemenag/width_1080/page275.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page276.webp
+/mushaf/kemenag/width_1080/page276.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page277.webp
+/mushaf/kemenag/width_1080/page277.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page278.webp
+/mushaf/kemenag/width_1080/page278.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page279.webp
+/mushaf/kemenag/width_1080/page279.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page280.webp
+/mushaf/kemenag/width_1080/page280.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page281.webp
+/mushaf/kemenag/width_1080/page281.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page282.webp
+/mushaf/kemenag/width_1080/page282.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page283.webp
+/mushaf/kemenag/width_1080/page283.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page284.webp
+/mushaf/kemenag/width_1080/page284.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page285.webp
+/mushaf/kemenag/width_1080/page285.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page286.webp
+/mushaf/kemenag/width_1080/page286.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page287.webp
+/mushaf/kemenag/width_1080/page287.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page288.webp
+/mushaf/kemenag/width_1080/page288.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page289.webp
+/mushaf/kemenag/width_1080/page289.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page290.webp
+/mushaf/kemenag/width_1080/page290.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page291.webp
+/mushaf/kemenag/width_1080/page291.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page292.webp
+/mushaf/kemenag/width_1080/page292.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page293.webp
+/mushaf/kemenag/width_1080/page293.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page294.webp
+/mushaf/kemenag/width_1080/page294.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page295.webp
+/mushaf/kemenag/width_1080/page295.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page296.webp
+/mushaf/kemenag/width_1080/page296.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page297.webp
+/mushaf/kemenag/width_1080/page297.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page298.webp
+/mushaf/kemenag/width_1080/page298.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page299.webp
+/mushaf/kemenag/width_1080/page299.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page300.webp
+/mushaf/kemenag/width_1080/page300.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page301.webp
+/mushaf/kemenag/width_1080/page301.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page302.webp
+/mushaf/kemenag/width_1080/page302.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page303.webp
+/mushaf/kemenag/width_1080/page303.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page304.webp
+/mushaf/kemenag/width_1080/page304.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page305.webp
+/mushaf/kemenag/width_1080/page305.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page306.webp
+/mushaf/kemenag/width_1080/page306.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page307.webp
+/mushaf/kemenag/width_1080/page307.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page308.webp
+/mushaf/kemenag/width_1080/page308.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page309.webp
+/mushaf/kemenag/width_1080/page309.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page310.webp
+/mushaf/kemenag/width_1080/page310.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page311.webp
+/mushaf/kemenag/width_1080/page311.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page312.webp
+/mushaf/kemenag/width_1080/page312.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page313.webp
+/mushaf/kemenag/width_1080/page313.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page314.webp
+/mushaf/kemenag/width_1080/page314.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page315.webp
+/mushaf/kemenag/width_1080/page315.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page316.webp
+/mushaf/kemenag/width_1080/page316.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page317.webp
+/mushaf/kemenag/width_1080/page317.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page318.webp
+/mushaf/kemenag/width_1080/page318.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page319.webp
+/mushaf/kemenag/width_1080/page319.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page320.webp
+/mushaf/kemenag/width_1080/page320.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page321.webp
+/mushaf/kemenag/width_1080/page321.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page322.webp
+/mushaf/kemenag/width_1080/page322.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page323.webp
+/mushaf/kemenag/width_1080/page323.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page324.webp
+/mushaf/kemenag/width_1080/page324.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page325.webp
+/mushaf/kemenag/width_1080/page325.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page326.webp
+/mushaf/kemenag/width_1080/page326.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page327.webp
+/mushaf/kemenag/width_1080/page327.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page328.webp
+/mushaf/kemenag/width_1080/page328.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page329.webp
+/mushaf/kemenag/width_1080/page329.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page330.webp
+/mushaf/kemenag/width_1080/page330.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page331.webp
+/mushaf/kemenag/width_1080/page331.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page332.webp
+/mushaf/kemenag/width_1080/page332.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page333.webp
+/mushaf/kemenag/width_1080/page333.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page334.webp
+/mushaf/kemenag/width_1080/page334.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page335.webp
+/mushaf/kemenag/width_1080/page335.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page336.webp
+/mushaf/kemenag/width_1080/page336.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page337.webp
+/mushaf/kemenag/width_1080/page337.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page338.webp
+/mushaf/kemenag/width_1080/page338.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page339.webp
+/mushaf/kemenag/width_1080/page339.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page340.webp
+/mushaf/kemenag/width_1080/page340.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page341.webp
+/mushaf/kemenag/width_1080/page341.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page342.webp
+/mushaf/kemenag/width_1080/page342.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page343.webp
+/mushaf/kemenag/width_1080/page343.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page344.webp
+/mushaf/kemenag/width_1080/page344.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page345.webp
+/mushaf/kemenag/width_1080/page345.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page346.webp
+/mushaf/kemenag/width_1080/page346.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page347.webp
+/mushaf/kemenag/width_1080/page347.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page348.webp
+/mushaf/kemenag/width_1080/page348.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page349.webp
+/mushaf/kemenag/width_1080/page349.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page350.webp
+/mushaf/kemenag/width_1080/page350.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page351.webp
+/mushaf/kemenag/width_1080/page351.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page352.webp
+/mushaf/kemenag/width_1080/page352.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page353.webp
+/mushaf/kemenag/width_1080/page353.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page354.webp
+/mushaf/kemenag/width_1080/page354.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page355.webp
+/mushaf/kemenag/width_1080/page355.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page356.webp
+/mushaf/kemenag/width_1080/page356.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page357.webp
+/mushaf/kemenag/width_1080/page357.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page358.webp
+/mushaf/kemenag/width_1080/page358.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page359.webp
+/mushaf/kemenag/width_1080/page359.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page360.webp
+/mushaf/kemenag/width_1080/page360.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page361.webp
+/mushaf/kemenag/width_1080/page361.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page362.webp
+/mushaf/kemenag/width_1080/page362.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page363.webp
+/mushaf/kemenag/width_1080/page363.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page364.webp
+/mushaf/kemenag/width_1080/page364.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page365.webp
+/mushaf/kemenag/width_1080/page365.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page366.webp
+/mushaf/kemenag/width_1080/page366.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page367.webp
+/mushaf/kemenag/width_1080/page367.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page368.webp
+/mushaf/kemenag/width_1080/page368.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page369.webp
+/mushaf/kemenag/width_1080/page369.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page370.webp
+/mushaf/kemenag/width_1080/page370.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page371.webp
+/mushaf/kemenag/width_1080/page371.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page372.webp
+/mushaf/kemenag/width_1080/page372.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page373.webp
+/mushaf/kemenag/width_1080/page373.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page374.webp
+/mushaf/kemenag/width_1080/page374.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page375.webp
+/mushaf/kemenag/width_1080/page375.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page376.webp
+/mushaf/kemenag/width_1080/page376.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page377.webp
+/mushaf/kemenag/width_1080/page377.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page378.webp
+/mushaf/kemenag/width_1080/page378.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page379.webp
+/mushaf/kemenag/width_1080/page379.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page380.webp
+/mushaf/kemenag/width_1080/page380.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page381.webp
+/mushaf/kemenag/width_1080/page381.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page382.webp
+/mushaf/kemenag/width_1080/page382.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page383.webp
+/mushaf/kemenag/width_1080/page383.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page384.webp
+/mushaf/kemenag/width_1080/page384.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page385.webp
+/mushaf/kemenag/width_1080/page385.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page386.webp
+/mushaf/kemenag/width_1080/page386.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page387.webp
+/mushaf/kemenag/width_1080/page387.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page388.webp
+/mushaf/kemenag/width_1080/page388.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page389.webp
+/mushaf/kemenag/width_1080/page389.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page390.webp
+/mushaf/kemenag/width_1080/page390.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page391.webp
+/mushaf/kemenag/width_1080/page391.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page392.webp
+/mushaf/kemenag/width_1080/page392.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page393.webp
+/mushaf/kemenag/width_1080/page393.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page394.webp
+/mushaf/kemenag/width_1080/page394.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page395.webp
+/mushaf/kemenag/width_1080/page395.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page396.webp
+/mushaf/kemenag/width_1080/page396.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page397.webp
+/mushaf/kemenag/width_1080/page397.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page398.webp
+/mushaf/kemenag/width_1080/page398.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page399.webp
+/mushaf/kemenag/width_1080/page399.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page400.webp
+/mushaf/kemenag/width_1080/page400.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page401.webp
+/mushaf/kemenag/width_1080/page401.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page402.webp
+/mushaf/kemenag/width_1080/page402.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page403.webp
+/mushaf/kemenag/width_1080/page403.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page404.webp
+/mushaf/kemenag/width_1080/page404.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page405.webp
+/mushaf/kemenag/width_1080/page405.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page406.webp
+/mushaf/kemenag/width_1080/page406.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page407.webp
+/mushaf/kemenag/width_1080/page407.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page408.webp
+/mushaf/kemenag/width_1080/page408.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page409.webp
+/mushaf/kemenag/width_1080/page409.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page410.webp
+/mushaf/kemenag/width_1080/page410.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page411.webp
+/mushaf/kemenag/width_1080/page411.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page412.webp
+/mushaf/kemenag/width_1080/page412.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page413.webp
+/mushaf/kemenag/width_1080/page413.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page414.webp
+/mushaf/kemenag/width_1080/page414.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page415.webp
+/mushaf/kemenag/width_1080/page415.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page416.webp
+/mushaf/kemenag/width_1080/page416.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page417.webp
+/mushaf/kemenag/width_1080/page417.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page418.webp
+/mushaf/kemenag/width_1080/page418.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page419.webp
+/mushaf/kemenag/width_1080/page419.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page420.webp
+/mushaf/kemenag/width_1080/page420.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page421.webp
+/mushaf/kemenag/width_1080/page421.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page422.webp
+/mushaf/kemenag/width_1080/page422.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page423.webp
+/mushaf/kemenag/width_1080/page423.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page424.webp
+/mushaf/kemenag/width_1080/page424.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page425.webp
+/mushaf/kemenag/width_1080/page425.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page426.webp
+/mushaf/kemenag/width_1080/page426.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page427.webp
+/mushaf/kemenag/width_1080/page427.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page428.webp
+/mushaf/kemenag/width_1080/page428.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page429.webp
+/mushaf/kemenag/width_1080/page429.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page430.webp
+/mushaf/kemenag/width_1080/page430.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page431.webp
+/mushaf/kemenag/width_1080/page431.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page432.webp
+/mushaf/kemenag/width_1080/page432.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page433.webp
+/mushaf/kemenag/width_1080/page433.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page434.webp
+/mushaf/kemenag/width_1080/page434.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page435.webp
+/mushaf/kemenag/width_1080/page435.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page436.webp
+/mushaf/kemenag/width_1080/page436.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page437.webp
+/mushaf/kemenag/width_1080/page437.webp
   pixelWidth: 1536
   pixelHeight: 2481
-/mushaf/kemenag/width_/page438.webp
+/mushaf/kemenag/width_1080/page438.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page439.webp
+/mushaf/kemenag/width_1080/page439.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page440.webp
+/mushaf/kemenag/width_1080/page440.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page441.webp
+/mushaf/kemenag/width_1080/page441.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page442.webp
+/mushaf/kemenag/width_1080/page442.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page443.webp
+/mushaf/kemenag/width_1080/page443.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page444.webp
+/mushaf/kemenag/width_1080/page444.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page445.webp
+/mushaf/kemenag/width_1080/page445.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page446.webp
+/mushaf/kemenag/width_1080/page446.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page447.webp
+/mushaf/kemenag/width_1080/page447.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page448.webp
+/mushaf/kemenag/width_1080/page448.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page449.webp
+/mushaf/kemenag/width_1080/page449.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page450.webp
+/mushaf/kemenag/width_1080/page450.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page451.webp
+/mushaf/kemenag/width_1080/page451.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page452.webp
+/mushaf/kemenag/width_1080/page452.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page453.webp
+/mushaf/kemenag/width_1080/page453.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page454.webp
+/mushaf/kemenag/width_1080/page454.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page455.webp
+/mushaf/kemenag/width_1080/page455.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page456.webp
+/mushaf/kemenag/width_1080/page456.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page457.webp
+/mushaf/kemenag/width_1080/page457.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page458.webp
+/mushaf/kemenag/width_1080/page458.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page459.webp
+/mushaf/kemenag/width_1080/page459.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page460.webp
+/mushaf/kemenag/width_1080/page460.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page461.webp
+/mushaf/kemenag/width_1080/page461.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page462.webp
+/mushaf/kemenag/width_1080/page462.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page463.webp
+/mushaf/kemenag/width_1080/page463.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page464.webp
+/mushaf/kemenag/width_1080/page464.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page465.webp
+/mushaf/kemenag/width_1080/page465.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page466.webp
+/mushaf/kemenag/width_1080/page466.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page467.webp
+/mushaf/kemenag/width_1080/page467.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page468.webp
+/mushaf/kemenag/width_1080/page468.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page469.webp
+/mushaf/kemenag/width_1080/page469.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page470.webp
+/mushaf/kemenag/width_1080/page470.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page471.webp
+/mushaf/kemenag/width_1080/page471.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page472.webp
+/mushaf/kemenag/width_1080/page472.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page473.webp
+/mushaf/kemenag/width_1080/page473.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page474.webp
+/mushaf/kemenag/width_1080/page474.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page475.webp
+/mushaf/kemenag/width_1080/page475.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page476.webp
+/mushaf/kemenag/width_1080/page476.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page477.webp
+/mushaf/kemenag/width_1080/page477.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page478.webp
+/mushaf/kemenag/width_1080/page478.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page479.webp
+/mushaf/kemenag/width_1080/page479.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page480.webp
+/mushaf/kemenag/width_1080/page480.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page481.webp
+/mushaf/kemenag/width_1080/page481.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page482.webp
+/mushaf/kemenag/width_1080/page482.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page483.webp
+/mushaf/kemenag/width_1080/page483.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page484.webp
+/mushaf/kemenag/width_1080/page484.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page485.webp
+/mushaf/kemenag/width_1080/page485.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page486.webp
+/mushaf/kemenag/width_1080/page486.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page487.webp
+/mushaf/kemenag/width_1080/page487.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page488.webp
+/mushaf/kemenag/width_1080/page488.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page489.webp
+/mushaf/kemenag/width_1080/page489.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page490.webp
+/mushaf/kemenag/width_1080/page490.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page491.webp
+/mushaf/kemenag/width_1080/page491.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page492.webp
+/mushaf/kemenag/width_1080/page492.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page493.webp
+/mushaf/kemenag/width_1080/page493.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page494.webp
+/mushaf/kemenag/width_1080/page494.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page495.webp
+/mushaf/kemenag/width_1080/page495.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page496.webp
+/mushaf/kemenag/width_1080/page496.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page497.webp
+/mushaf/kemenag/width_1080/page497.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page498.webp
+/mushaf/kemenag/width_1080/page498.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page499.webp
+/mushaf/kemenag/width_1080/page499.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page500.webp
+/mushaf/kemenag/width_1080/page500.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page501.webp
+/mushaf/kemenag/width_1080/page501.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page502.webp
+/mushaf/kemenag/width_1080/page502.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page503.webp
+/mushaf/kemenag/width_1080/page503.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page504.webp
+/mushaf/kemenag/width_1080/page504.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page505.webp
+/mushaf/kemenag/width_1080/page505.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page506.webp
+/mushaf/kemenag/width_1080/page506.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page507.webp
+/mushaf/kemenag/width_1080/page507.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page508.webp
+/mushaf/kemenag/width_1080/page508.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page509.webp
+/mushaf/kemenag/width_1080/page509.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page510.webp
+/mushaf/kemenag/width_1080/page510.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page511.webp
+/mushaf/kemenag/width_1080/page511.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page512.webp
+/mushaf/kemenag/width_1080/page512.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page513.webp
+/mushaf/kemenag/width_1080/page513.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page514.webp
+/mushaf/kemenag/width_1080/page514.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page515.webp
+/mushaf/kemenag/width_1080/page515.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page516.webp
+/mushaf/kemenag/width_1080/page516.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page517.webp
+/mushaf/kemenag/width_1080/page517.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page518.webp
+/mushaf/kemenag/width_1080/page518.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page519.webp
+/mushaf/kemenag/width_1080/page519.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page520.webp
+/mushaf/kemenag/width_1080/page520.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page521.webp
+/mushaf/kemenag/width_1080/page521.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page522.webp
+/mushaf/kemenag/width_1080/page522.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page523.webp
+/mushaf/kemenag/width_1080/page523.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page524.webp
+/mushaf/kemenag/width_1080/page524.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page525.webp
+/mushaf/kemenag/width_1080/page525.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page526.webp
+/mushaf/kemenag/width_1080/page526.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page527.webp
+/mushaf/kemenag/width_1080/page527.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page528.webp
+/mushaf/kemenag/width_1080/page528.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page529.webp
+/mushaf/kemenag/width_1080/page529.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page530.webp
+/mushaf/kemenag/width_1080/page530.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page531.webp
+/mushaf/kemenag/width_1080/page531.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page532.webp
+/mushaf/kemenag/width_1080/page532.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page533.webp
+/mushaf/kemenag/width_1080/page533.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page534.webp
+/mushaf/kemenag/width_1080/page534.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page535.webp
+/mushaf/kemenag/width_1080/page535.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page536.webp
+/mushaf/kemenag/width_1080/page536.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page537.webp
+/mushaf/kemenag/width_1080/page537.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page538.webp
+/mushaf/kemenag/width_1080/page538.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page539.webp
+/mushaf/kemenag/width_1080/page539.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page540.webp
+/mushaf/kemenag/width_1080/page540.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page541.webp
+/mushaf/kemenag/width_1080/page541.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page542.webp
+/mushaf/kemenag/width_1080/page542.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page543.webp
+/mushaf/kemenag/width_1080/page543.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page544.webp
+/mushaf/kemenag/width_1080/page544.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page545.webp
+/mushaf/kemenag/width_1080/page545.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page546.webp
+/mushaf/kemenag/width_1080/page546.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page547.webp
+/mushaf/kemenag/width_1080/page547.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page548.webp
+/mushaf/kemenag/width_1080/page548.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page549.webp
+/mushaf/kemenag/width_1080/page549.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page550.webp
+/mushaf/kemenag/width_1080/page550.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page551.webp
+/mushaf/kemenag/width_1080/page551.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page552.webp
+/mushaf/kemenag/width_1080/page552.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page553.webp
+/mushaf/kemenag/width_1080/page553.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page554.webp
+/mushaf/kemenag/width_1080/page554.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page555.webp
+/mushaf/kemenag/width_1080/page555.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page556.webp
+/mushaf/kemenag/width_1080/page556.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page557.webp
+/mushaf/kemenag/width_1080/page557.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page558.webp
+/mushaf/kemenag/width_1080/page558.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page559.webp
+/mushaf/kemenag/width_1080/page559.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page560.webp
+/mushaf/kemenag/width_1080/page560.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page561.webp
+/mushaf/kemenag/width_1080/page561.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page562.webp
+/mushaf/kemenag/width_1080/page562.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page563.webp
+/mushaf/kemenag/width_1080/page563.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page564.webp
+/mushaf/kemenag/width_1080/page564.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page565.webp
+/mushaf/kemenag/width_1080/page565.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page566.webp
+/mushaf/kemenag/width_1080/page566.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page567.webp
+/mushaf/kemenag/width_1080/page567.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page568.webp
+/mushaf/kemenag/width_1080/page568.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page569.webp
+/mushaf/kemenag/width_1080/page569.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page570.webp
+/mushaf/kemenag/width_1080/page570.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page571.webp
+/mushaf/kemenag/width_1080/page571.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page572.webp
+/mushaf/kemenag/width_1080/page572.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page573.webp
+/mushaf/kemenag/width_1080/page573.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page574.webp
+/mushaf/kemenag/width_1080/page574.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page575.webp
+/mushaf/kemenag/width_1080/page575.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page576.webp
+/mushaf/kemenag/width_1080/page576.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page577.webp
+/mushaf/kemenag/width_1080/page577.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page578.webp
+/mushaf/kemenag/width_1080/page578.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page579.webp
+/mushaf/kemenag/width_1080/page579.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page580.webp
+/mushaf/kemenag/width_1080/page580.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page581.webp
+/mushaf/kemenag/width_1080/page581.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page582.webp
+/mushaf/kemenag/width_1080/page582.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page583.webp
+/mushaf/kemenag/width_1080/page583.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page584.webp
+/mushaf/kemenag/width_1080/page584.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page585.webp
+/mushaf/kemenag/width_1080/page585.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page586.webp
+/mushaf/kemenag/width_1080/page586.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page587.webp
+/mushaf/kemenag/width_1080/page587.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page588.webp
+/mushaf/kemenag/width_1080/page588.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page589.webp
+/mushaf/kemenag/width_1080/page589.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page590.webp
+/mushaf/kemenag/width_1080/page590.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page591.webp
+/mushaf/kemenag/width_1080/page591.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page592.webp
+/mushaf/kemenag/width_1080/page592.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page593.webp
+/mushaf/kemenag/width_1080/page593.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page594.webp
+/mushaf/kemenag/width_1080/page594.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page595.webp
+/mushaf/kemenag/width_1080/page595.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page596.webp
+/mushaf/kemenag/width_1080/page596.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page597.webp
+/mushaf/kemenag/width_1080/page597.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page598.webp
+/mushaf/kemenag/width_1080/page598.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page599.webp
+/mushaf/kemenag/width_1080/page599.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page600.webp
+/mushaf/kemenag/width_1080/page600.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page601.webp
+/mushaf/kemenag/width_1080/page601.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page602.webp
+/mushaf/kemenag/width_1080/page602.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page603.webp
+/mushaf/kemenag/width_1080/page603.webp
   pixelWidth: 1080
   pixelHeight: 1745
-/mushaf/kemenag/width_/page604.webp
+/mushaf/kemenag/width_1080/page604.webp
   pixelWidth: 1080
   pixelHeight: 1745
